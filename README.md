@@ -1,6 +1,3 @@
-# PF-Lab03-0082
-**Name:** Eshal Ali
+# Hi there, My name is Eshal Ali
 
-**Degree program:** BS-AI
-
-**Hobby:** Baking 
+**I am a BS Artificial Intlligence student at FAST university with a strong interest in programming fundamentals , problem solving, and technology. I enjoy learning algorithms and code and aim to grow my skills to contribute to innovative AI-driven applications.**
