@@ -1,3 +1,15 @@
 # Hi there, My name is Eshal Ali
 
-**I am a BS Artificial Intlligence student at FAST university with a strong interest in programming fundamentals , problem solving, and technology. I enjoy learning algorithms and code and aim to grow my skills to contribute to innovative AI-driven applications.**
+## My journey  
+1. Completed my school from beacon house school system
+
+2. Did my A levels from BCP gulshan
+   
+3. Currently doing bachelor from FAST university
+
+## My passion 
++ Baking
+- Reading
+* Coding
+
+*My favorite quote*:  **YOU NEVER PLAN TO FAIL, BUT YOU FAIL TO PLAN.**
